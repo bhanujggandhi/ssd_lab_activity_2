@@ -1,6 +1,6 @@
 # SSD Lab Activity 2
 
-###: Question 1
+### Question 1
 ./q1.sh: Takes argument as a text file using command parameter
 
 #### Assumptions

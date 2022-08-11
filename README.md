@@ -1,7 +1,8 @@
 # SSD Lab Activity 2
 
 ### Question 1
-./q1.sh: Takes argument as a text file using command parameter
+./q1.sh: Prints the middle line of the text file
+Takes argument as a text file using command parameter
 
 #### Assumptions
 If number of lines are odd: (n/2)+1 th line
